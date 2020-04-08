@@ -1,0 +1,9 @@
+C:\Users\asus\source\repos\BaiTapVN\obj\Debug\BaiTapVN.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\BaiTapVN\obj\Debug\BaiTapVN.Form1.resources
+C:\Users\asus\source\repos\BaiTapVN\obj\Debug\BaiTapVN.Properties.Resources.resources
+C:\Users\asus\source\repos\BaiTapVN\obj\Debug\BaiTapVN.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\BaiTapVN\obj\Debug\BaiTapVN.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\BaiTapVN\bin\Debug\BaiTapVN.exe
+C:\Users\asus\source\repos\BaiTapVN\bin\Debug\BaiTapVN.pdb
+C:\Users\asus\source\repos\BaiTapVN\obj\Debug\BaiTapVN.exe
+C:\Users\asus\source\repos\BaiTapVN\obj\Debug\BaiTapVN.pdb
